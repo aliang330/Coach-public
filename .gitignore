@@ -1,0 +1,7 @@
+Coach.xcodeproj/project.xcworkspace/*
+Coach.xcodeproj/xcuserdata/
+Coach/PoseModels/
+Pods
+Coach.xcworkspace/xcuserdata
+Coach.xcworkspace/xcshareddata
+.DS_Store
